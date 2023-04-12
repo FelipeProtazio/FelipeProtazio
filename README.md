@@ -1,7 +1,7 @@
 ### Hello! Prazer, Sou o Felipe Protazio. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeProtazio&show_icons=true&theme=codeSTACKr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeProtazio&layout=codeSTACKr)](https://github.com/FelipeProtazio/github-readme-stats)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
